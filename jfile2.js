@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h2>JavaScript Numbers</h2>
+<h2>javascrpt Numbers</h2>
 
 <p>Numbers can be written with or without decimals:</p>
 
@@ -9,7 +9,7 @@
 
 <script>
 var x = 3.14;
-var y = 3;
+var y = 6;
 document.getElementById("demo").innerHTML = x + "<br>" + y;
 </script>
 
